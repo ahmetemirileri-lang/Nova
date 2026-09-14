@@ -62,4 +62,5 @@ Possible future features include:
 
 📜 License
 
-License information will be added later.
+
+Nova is licensed under the MIT License.
