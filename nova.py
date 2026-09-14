@@ -22,7 +22,7 @@ while True:
 			print(degiskenler[metin])
 		
 	#input sistemi	
-	if kod.startswith("soru(") and "=" in kod:
+	if kod.startswith("soru(") and "=" not in kod:
 		metin = kod [5:-1]
 		if metin.startswith('"') and metin.endswith('"'):
 			ekran.append(metin.strip('"'))
