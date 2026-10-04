@@ -39,9 +39,9 @@ Nova is still in early development, so the language and its syntax may change ov
 
 📦 Version
 
-Current version: 0.5
+Current version: 0.7
 
-Nova 0.5 is an early release focused on the core language features.
+Nova 0.7 is an early release focused on the core language features.
 
 🛠️ Development
 
